@@ -1,0 +1,12 @@
+[
+    {
+    "name": "neuproject",
+    "type": "folder",
+    "children": [
+        {
+            "name": "test.json",
+            "type": "file"
+        }
+    ]
+}
+]
